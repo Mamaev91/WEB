@@ -1,0 +1,15 @@
+<doRegister>
+    <email>olga@gmail.com</email>
+    <name>Ольга</name>
+    <password>1
+ </doRegister>
+ </password>
+
+ Проверка не пройдена, есть ошибки. Рабочая версия => 
+ 
+ <doRegister>
+    <email>olga@gmail.com</email>
+    <name>Ольга</name>
+    <password>1</password>
+ </doRegister>
+
