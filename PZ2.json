@@ -1,0 +1,28 @@
+{
+    "person1": {
+    "Name": "Иван",
+    "Surname": "Иванов",
+    "Age": 37,
+    "Hobbie":[
+        "рыбалка",
+        "охота",
+        "футбол"
+    ],
+    "Married": true,
+    "Children":[
+        "Мария",
+        "Николай"
+    ]
+    },
+    "person2": {
+        "Name": "Ольга",
+        "Surname": "Фролова",
+        "Age": 21,
+        "Hobbie":[
+            "путешествия",
+            "вышивание"
+        ],
+        "Married": false,
+        "Children": null
+        }
+}
